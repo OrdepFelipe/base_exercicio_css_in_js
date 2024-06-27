@@ -1,5 +1,3 @@
-import styles from './Hero.module.css'
-
 import { Form, FormDiv, HeroTitle } from './styles'
 
 const Hero = () => (
